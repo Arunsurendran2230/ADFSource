@@ -1,0 +1,9 @@
+{
+	"name": "asl-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be2b3eb1-10b0-4675-935b-9cf8812c7822",
+		"tenantId": "bb622062-d041-465b-bead-116710bb120a"
+	}
+}
